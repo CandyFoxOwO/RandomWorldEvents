@@ -44,7 +44,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.server.ServerLifecycleHooks;
 
 
-@Mod("chaostic")
+@Mod("RWE")
 public class Main {
 
     private int cooldown = 30;
